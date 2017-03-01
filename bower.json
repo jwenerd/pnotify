@@ -24,8 +24,7 @@
     "index.html",
     "testing.html",
     "buildcustom.php",
-    "package.json",
-    "src/"
+    "package.json"
   ],
   "license": [
     "Apache-2.0"
